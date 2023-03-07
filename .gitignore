@@ -2,3 +2,4 @@
 *.LSOverride
 Thumbs.db
 .bundle
+.kube/add-configs-here.txt
