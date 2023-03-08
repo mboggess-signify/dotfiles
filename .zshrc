@@ -140,3 +140,10 @@ zstyle ':vcs_info:*' stagedstr ' +'
 zstyle ':vcs_info:git:*' formats '(%b%u%c)'
 zstyle ':vcs_info:git:*' actionformats '(%b|%a%u%c)'
 
+#### kubectl/k9s stuff ####
+export K9SCONF="/Users/mboggess/Library/Application Support/k9s/config.yml"
+export KUBECONF=/User/mboggess/.kube
+export DEVKC=$HOME/dev-usc-shared-aks.yaml
+export QAKC=$HOME/hcc-qa-usc-sharedcluster-aks-1179.yaml
+export UATKC=$HOME/hcc-uat-usc-sharedcluster-aks-1179.yaml
+export PRODKC=$HOME/prod-conf-one-day.yaml
