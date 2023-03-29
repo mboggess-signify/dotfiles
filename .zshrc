@@ -147,3 +147,8 @@ export DEVKC=$HOME/dev-usc-shared-aks.yaml
 export QAKC=$HOME/hcc-qa-usc-sharedcluster-aks-1179.yaml
 export UATKC=$HOME/hcc-uat-usc-sharedcluster-aks-1179.yaml
 export PRODKC=$HOME/prod-conf-one-day.yaml
+
+# virtualenv and virtualenvwrapper
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/git
+source /usr/local/bin/virtualenvwrapper.shxport PRODKC=$HOME/prod-conf-one-day.yaml
